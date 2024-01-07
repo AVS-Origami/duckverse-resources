@@ -1,6 +1,0 @@
-{
-    "parent": "builtin/entity",
-	"overrides": [
-		{"predicate": {"custom_model_data":937}, "model": "entity/banner/penguin"}
-	]
-}
